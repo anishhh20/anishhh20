@@ -10,18 +10,13 @@
 I'm pursuing BE IT 🎓 . I'm a passionate to learn and work across new technologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.<br>
 
 <img align="right" height="250" width="375" alt="" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" />
-<br><br>
+<br><br><br>
 
 - 🚀 &nbsp; I’m currently learning Web Development n DS.
 - 💬 &nbsp; Connect over Social media's.
 - 📫 &nbsp; How to reach me: anishteli238@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/anishhh20/anish-portfolio/assests/resume.pdf).
-<br><br>
-
-
-
-
-
+- 📝 &nbsp; Checkout my [Resume](https://github.com/anishhh20/anish-portfolio/blob/17ded6e7264733d31cfc0c1d69dc609424d789b7/assests/resume.pdf).
+<br><br><br>
 
 ### Languages and Tools:
 
