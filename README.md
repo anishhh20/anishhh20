@@ -10,7 +10,7 @@
 I'm pursuing BE IT 🎓 . I'm a passionate to learn and work across new technologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.<br><br>
 
 <img align="right" height="250" width="375" alt="" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" />
-<br><br><br>
+<br>
 
 - 🚀 &nbsp; I’m currently learning Web Development n DS.
 - 🔗 &nbsp; Visit my [Portfolio site](https://anishhh20.github.io/anish-portfolio/). 
