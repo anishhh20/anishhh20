@@ -18,6 +18,11 @@ I'm pursuing BE IT 🎓 . I'm a passionate to learn and work across new technolo
 - 📝 &nbsp; Checkout my [Resume](https://github.com/anishhh20/anish-portfolio/assests/resume.pdf).
 <br><br>
 
+
+
+
+
+
 ### Languages and Tools:
 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]
