@@ -15,7 +15,7 @@ I'm pursuing BE IT 🎓 . I'm a passionate to learn and work across new technolo
 - 🚀 &nbsp; I’m currently learning Web Development n DS.
 - 💬 &nbsp; Connect over Social media's.
 - 📫 &nbsp; How to reach me: anishteli238@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/anishhh20/anish-portfolio/blob/17ded6e7264733d31cfc0c1d69dc609424d789b7/assests/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/anishhh20/anish-portfolio/assests/resume.pdf).
 <br><br>
  </div>
 ### Languages and Tools:
