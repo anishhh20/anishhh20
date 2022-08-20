@@ -1,5 +1,7 @@
 ## Hey 👋, I'm [Anish Teli !](https://github.com/anishhh20)
 
+### Connect over Social Media !
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/anishteli238)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://anishhh20.github.io/anish-portfolio/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/anish_teli238)
