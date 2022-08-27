@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Anish Teli !](https://github.com/anishhh20)
+## Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Anish Teli !](https://github.com/anishhh20)
 
 ### Connect over Social Media !
 
