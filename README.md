@@ -6,7 +6,6 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://anishhh20.github.io/anish-portfolio/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/anish_teli238)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anishhh20/)
-[![Buy me a Coffee Badge](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png?style=flat-square&logoColor=white)](https://buymeacoffee.com/anishhh20)
 
 ### Glad to see you here!
 
@@ -30,3 +29,5 @@ I'm pursuing BE IT 🎓 . I'm a passionate to learn and work across new technolo
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
 [<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />]
 [<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />]
+
+[![Buy me a Coffee Badge](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/anishhh20)
