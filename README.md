@@ -30,6 +30,13 @@ I'm pursuing BE IT 🎓 . I'm a passionate to learn and work across new technolo
 [<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />]
 [<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />]
 
-![Engin`s GitHub stats](https://github-readme-stats.vercel.app/api?username=anishhh20&show_icons=true&theme=radical)
+### Github Stats:
+<div style="display: flex; flex-direction: row;">
+ <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=anishhh20&show_icons=true&theme=graywhite" />
+  &nbsp;
+  &nbsp;
+ <img style="height: auto; width: 39%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishhh20&theme=graywhite&layout=compact" />
+</div>
 
+<br>
 <a href="https://www.buymeacoffee.com/anishhh20" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 180px !important;" ></a>
