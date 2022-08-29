@@ -32,7 +32,7 @@ I'm pursuing BE IT 🎓 . I'm a passionate to learn and work across new technolo
 
 ### Github Stats:
 <div style="display: flex; flex-direction: row;">
- <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=anishhh20&show_icons=true&theme=graywhite" />
+ 
   &nbsp;
   &nbsp;
  <img style="height: auto; width: 39%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishhh20&theme=graywhite&layout=compact" />
