@@ -38,5 +38,7 @@ I'm pursuing BE IT 🎓 . I'm a passionate to learn and work across new technolo
  <img style="height: auto; width: 39%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishhh20&theme=graywhite&layout=compact" />
 </div>
 
+[![@anishhh20's Holopin board](https://holopin.io/api/user/board?user=anishhh20)](https://holopin.io/@anishhh20)
+
 <br>
 <a href="https://www.buymeacoffee.com/anishhh20" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 180px !important;" ></a>
