@@ -20,7 +20,7 @@ I'm pursuing BE IT 🎓 . I'm a passionate to learn and work across new technolo
 - 📸 &nbsp; Also, I'm a [Photographer](https://anishhh20.github.io/anish-portfolio/photos.html).
 - 📫 &nbsp; How to reach me: anishteli238@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/anishhh20/anish-portfolio/blob/17ded6e7264733d31cfc0c1d69dc609424d789b7/assests/resume.pdf).
-<br><br><br>
+<br><br><br><br><br>
 
 ### Languages and Tools:
 
@@ -38,7 +38,12 @@ I'm pursuing BE IT 🎓 . I'm a passionate to learn and work across new technolo
  <img style="height: auto; width: 39%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishhh20&theme=graywhite&layout=compact" />
 </div>
 
-[![@anishhh20's Holopin board](https://holopin.io/api/user/board?user=anishhh20)](https://holopin.io/@anishhh20)
+<br>
+<a href="https://holopin.io/@anishhh20" target="_blank">
+ <img style="height: auto; width: 50%;" class="img" src="https://holopin.io/api/user/board?user=anishhh20" />
+</a>
 
 <br>
-<a href="https://www.buymeacoffee.com/anishhh20" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 180px !important;" ></a>
+<a href="https://www.buymeacoffee.com/anishhh20" target="_blank">
+ <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 180px !important;" >
+</a>
