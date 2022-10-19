@@ -39,9 +39,8 @@ I'm pursuing BE IT 🎓 . I'm a passionate to learn and work across new technolo
 </div>
 
 <br>
-<a href="https://holopin.io/@anishhh20" target="_blank">
- <img style="height: auto; width: 50%;" class="img" src="https://holopin.io/api/user/board?user=anishhh20" />
-</a>
+
+[![@anishhh20's Holopin board](https://holopin.me/anishhh20)](https://holopin.io/@anishhh20)
 
 <br>
 <a href="https://www.buymeacoffee.com/anishhh20" target="_blank">
