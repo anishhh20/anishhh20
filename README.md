@@ -1,4 +1,4 @@
-## Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Anish Teli !](https://github.com/anishhh20)
+## Hey , I'm [Anish Teli !](https://github.com/anishhh20)
 
 ### Connect over Social Media !
 
@@ -15,11 +15,11 @@ I'm pursuing BE IT 🎓 . I'm a passionate to learn and work across new technolo
 <br>
 
 - 🚀 &nbsp; I’m currently learning Web Development n DS.
-- 🔗 &nbsp; Visit my [Portfolio site](https://anishhh20.github.io/anish-portfolio/). 
+- 🔗 &nbsp; Visit my [Portfolio site](https://anishhh20.github.io/react-portfolio/). 
 - 💬 &nbsp; Connect over Social media's.
-- 📸 &nbsp; Also, I'm a [Photographer](https://anishhh20.github.io/anish-portfolio/photos.html).
+- 📸 &nbsp; Also, a Photographer.
 - 📫 &nbsp; How to reach me: anishteli238@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/anishhh20/anish-portfolio/blob/17ded6e7264733d31cfc0c1d69dc609424d789b7/assests/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/anishhh20/react-portfolio/blob/82e73afbf17920f1ab8713740be7a1f7157bd40f/src/assests/resume.pdf).
 <br><br><br><br><br>
 
 ### Languages and Tools:
